@@ -3,12 +3,15 @@ Semana JS Expert 7.0
 
 
 Pre-reqs
-Este projeto foi criado usando Node.js v19.6
+
+- Este projeto foi criado usando Node.js v19.6
 Running
-Execute npm ci para restaurar os pacotes
-Execute npm start e em seguida vá para o seu navegador em http://localhost:3000 para visualizar a página acima
+
+- Execute npm ci para restaurar os pacotes
+- Execute npm start e em seguida vá para o seu navegador em http://localhost:3000 para visualizar a página acima
+
 Checklist Features
-Titles List
+- Titles List
 
  - Campo para pesquisa não deve travar ao digitar termo de pesquisa
  - Deve desenhar mãos na tela e fazer com que elementos em segundo plano continuem sendo clicáveis 🙌
